@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "305495179760",
+    "project_id": "menulist-c3e9c",
+    "storage_bucket": "menulist-c3e9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305495179760:android:7045cd66951645014e9d35",
+        "android_client_info": {
+          "package_name": "com.example.cnue_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305495179760-4087gbneqdah5aug8jpn9skaauud9pqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-DC1obPoY0kgqPr5wxsEaU-xxa63vvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305495179760-4087gbneqdah5aug8jpn9skaauud9pqt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305495179760-mmrsqo6iltph1ua780uv7tr8a42e6kpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cnueFoodApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305495179760:android:0faf6b678628d7af4e9d35",
+        "android_client_info": {
+          "package_name": "com.cnue_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305495179760-4087gbneqdah5aug8jpn9skaauud9pqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-DC1obPoY0kgqPr5wxsEaU-xxa63vvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305495179760-4087gbneqdah5aug8jpn9skaauud9pqt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305495179760-mmrsqo6iltph1ua780uv7tr8a42e6kpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cnueFoodApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
